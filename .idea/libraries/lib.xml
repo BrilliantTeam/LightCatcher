@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/adventure-key-4.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bungeecord-chat-1.20-R0.3-20240119.214554-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/paper-api-1.20.4-R0.1-20240223.222543-116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/adventure-api-4.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/item-nbt-api-plugin-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bungeecord-api-1.12-20180712.114619-97.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
