@@ -1,8 +1,8 @@
 # CatchLight | 生存光源
 遊戲版本：1.20+
 
-Spigot: https://www.spigotmc.org/resources//<br>
-巴哈介紹: https://forum.gamer.com.tw/
+Spigot: https://www.spigotmc.org/resources/catchlight-works-out-of-the-box-folia-support-open-source-1-20-1-21-x.120112/<br>
+巴哈介紹: https://forum.gamer.com.tw/C.php?bsn=18673&snA=202864&subbsn=0&page=1&s_author=&gothis=1083726#1083726
 ---
 
 [Made for 輝煌伺服器.](CatchLight)
