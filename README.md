@@ -9,9 +9,9 @@ Spigot: https://www.spigotmc.org/resources/catchlight-works-out-of-the-box-folia
 
 ## 📃 License | 開源許可證
 
-**This project is under Das Crystal.**
+**This project is under BSD+Patent.**
 
-**該插件使用 Das Crystal 開源許可證**
+**該插件使用 BSD+Patent 開源許可證**
 
 # 🖌Commands | 指令
 ```
