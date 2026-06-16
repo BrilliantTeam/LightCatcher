@@ -16,12 +16,10 @@ public class Util
 
     public static void f(String m)
     {Util.logger.log(Level.INFO, "-|" + m + "|-");}
-    
+
     public static void fw(String m)
     {Util.logger.log(Level.WARNING, "-|" + m + "|-");}
-    
+
     public static void fe(String m)
     {Util.logger.log(Level.SEVERE, "-|" + m + "|-");}
 }
-
-
