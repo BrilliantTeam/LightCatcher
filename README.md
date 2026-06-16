@@ -1,8 +1,9 @@
 # LightCatcher | 生存光源
 遊戲版本：1.20+
 
-Spigot: https://www.spigotmc.org/resources/lightcatcher-light-block-in-survival-folia-support-open-source.120112//<br>
-巴哈介紹: https://forum.gamer.com.tw/C.php?bsn=18673&snA=202864&subbsn=0&page=1&s_author=&gothis=1083726#1083726
+Spigot: https://www.spigotmc.org/resources/lightcatcher-light-block-in-survival-folia-support-open-source.120112    
+Modrinth: https://modrinth.com/plugin/lightcatcher    
+巴哈介紹: https://forum.gamer.com.tw/C.php?bsn=18673&snA=202864&subbsn=0&page=1&s_author=&gothis=1083726#1083726    
 ---
 
 [Made for 輝煌伺服器.](CatchLight)
